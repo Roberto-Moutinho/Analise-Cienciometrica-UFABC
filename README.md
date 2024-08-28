@@ -1,6 +1,6 @@
 # Análise Cienciométrica Baseada em Séries Temporais
 
-Este repositório contém o código e os dados utilizados no projeto de pesquisa intitulado **"Análise Cienciométrica Baseada em Séries Temporais: Previsões e Tendências Emergentes com Redes Neurais a partir de Dados da UFABC"**. O objetivo deste projeto é explorar e aplicar técnicas de aprendizado de máquina, especialmente redes neurais, para analisar e prever tendências científicas emergentes, utilizando dados de publicações acadêmicas.
+Este repositório contém o código e os dados utilizados no projeto de pesquisa da minha iniciação científica PDPD (pesquisando desde o primeiro dia). O objetivo deste projeto é explorar e aplicar técnicas de aprendizado de máquina, especialmente redes neurais, para analisar e prever tendências científicas emergentes, utilizando dados de publicações acadêmicas.
 
 ## Conteúdo
 
